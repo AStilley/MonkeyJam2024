@@ -1,7 +1,7 @@
 # MonkeyJam2024
 CDawgVA Monkey Jam 2024
 
-## Game Jam Theme
+# Game Jam Theme
 
 
 # Game Summary
