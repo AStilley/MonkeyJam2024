@@ -2,7 +2,7 @@
 CDawgVA Monkey Jam 2024
 
 # Game Jam Theme
-# **CYCLING**
+# *CYCLING*
 
 # Game Summary
 - Test
