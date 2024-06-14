@@ -5,16 +5,20 @@ CDawgVA Monkey Jam 2024
 # *CYCLING*
 
 # Game Summary
-- Test
+- A simple arcade game based on Paperboy.
+- You are a biking monkey delivering fruit in the neighborhood.
 
 # Core Mechanics
-- Test
+- Distance High Score
+- Throwing Fruit
 
 # Gameplay
-- Test
+- The player will avoid obstacles and 
 
 # Music
-- Test
+- Beeps
+- Boops
 
 # Art Style
-- Test
+- Isometric 2d
+- Pixel Art
