@@ -31,7 +31,7 @@ public class FruitShoot : MonoBehaviour
 
     public void Shoot(Sprite fruit)
     {
-
+        Debug.Log("Create Fruit");
         var fruitToMake = Instantiate(fruitBullet, this.gameObject.transform.position, Quaternion.identity);
         fruitToMake.GetComponent<SpriteRenderer>().sprite = fruit;
         fruitToMake.GetComponent<FruitBullet>().SetFruitNumber(fruitNumber);

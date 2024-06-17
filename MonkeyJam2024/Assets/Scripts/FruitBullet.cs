@@ -15,6 +15,7 @@ public class FruitBullet : MonoBehaviour
     void Start()
     {
         rb = this.GetComponent<Rigidbody2D>();
+        Debug.Log(gameObject.name + " was created!");
     }
 
     // Update is called once per frame
@@ -31,5 +32,9 @@ public class FruitBullet : MonoBehaviour
     public void SetFruitNumber(int fruitNum)
     {
         fruitNumber = fruitNum;
+    }
+    public int GetFruitNumber()
+    {
+        return fruitNumber;
     }
 }
